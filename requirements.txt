@@ -1,0 +1,6 @@
+msal
+requests
+python-dotenv
+azure-identity
+azure-storage-blob
+datetime
